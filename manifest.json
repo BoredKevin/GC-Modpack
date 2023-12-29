@@ -1,0 +1,30 @@
+{
+    "name": "GC_Modpack",
+    "description": "The official Good Company modpack, includes many QoL & funny changes.",
+    "version_number": "0.0.3",
+    "website_url": "https://boredkevin.com",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100",
+      "FlipMods-ReservedItemSlotCore-1.7.1",
+      "FlipMods-ReservedFlashlightSlot-1.5.2",
+      "FlipMods-ReservedWalkieSlot-1.5.1",
+      "Sligili-HDLethalCompany-1.5.6",
+      "x753-More_Suits-1.4.1",
+      "Sligili-More_Emotes-1.2.2",
+      "Suskitech-AlwaysHearActiveWalkies-1.4.3",
+      "Clementinise-CustomSounds-2.2.0",
+      "no00ob-LCSoundTool-1.4.0",
+      "PopleZoo-BetterItemScan-2.1.7",
+      "FlipMods-BetterStamina-1.3.2",
+      "Drakorle-MoreItems-1.0.1",
+      "FlipMods-HotbarPlus-1.4.4",
+      "MetalPipeSFX-HornMoan-2.1.0",
+      "tinyhoot-ShipLobby-1.0.2",
+      "gamendegamer-Lethal_Admin-1.1.0",
+      "Ozone-Lockdown-1.0.3",
+      "Ozone-BepInUtils-1.2.1",
+      "steven4547466-YoutubeBoombox-1.5.0",
+      "2018-LC_API-3.1.0"
+    ]
+  }
+  
